@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Hey, I'm haseeb.ce 👋 AKA IT4CH1
+### Hey, I'm Botnoa Senpai👋 
 
 I'm a cybersecurity researcher and student, passionate about breaking things to understand how they work and how to defend them.
 
